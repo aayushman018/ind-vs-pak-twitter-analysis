@@ -1,4 +1,4 @@
-# 🏏 India vs Pakistan CT 2026 — Twitter Analysis & Business Insights
+# 🏏 India vs Pakistan WC 2026 — Twitter Analysis & Business Insights
 
 > A full end-to-end social media analytics pipeline on 12,500+ tweets from the most-watched cricket match of 2026.
 
