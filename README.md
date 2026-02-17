@@ -145,7 +145,7 @@ This analysis framework is directly applicable to:
 
 ## 📬 Connect
 
-If you found this useful or have questions about the methodology, feel free to connect on [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) or open an issue.
+If you found this useful or have questions about the methodology, feel free to connect on [LinkedIn](https://www.linkedin.com/in/aayushmanarya/) or open an issue.
 
 ---
 
