@@ -1,0 +1,36 @@
+# Raw data — never commit user data
+*.csv
+*.tsv
+*.xlsx
+*.json.bak
+
+# Environment & secrets
+.env
+.env.local
+secrets.py
+api_keys.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
